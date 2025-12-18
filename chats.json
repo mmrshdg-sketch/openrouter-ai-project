@@ -1,0 +1,44 @@
+{
+  "23732477-c0ea-42cc-96bf-4b926808c696": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "hello!"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! I'm Nex, a large language model developed by Shanghai Innovation Institution and its partners. I'm happy to help you with agentic task execution, code generation, debugging, optimization, and explanation. What can I assist you with today?"
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "what was my last message?"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Your last message was:  \n> \u201cwhat was my last message?\u201d"
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "my FIRST message.\n"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Your first message was:  \n> \u201chello!\u201d"
+    }
+  ],
+  "7a2e83f7-e6d6-414e-9357-d094ec15de81": []
+}
